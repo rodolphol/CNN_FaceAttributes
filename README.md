@@ -1,4 +1,4 @@
-# CNN_HeadFeatures
+# CNN_FaceAttributes
 
 This is a multi label classification model for face attribute recognition like
 wrinkles, freckles, glasses, hair color and thickness of the hair.
